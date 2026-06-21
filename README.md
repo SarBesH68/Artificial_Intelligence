@@ -1,110 +1,110 @@
-# \# Artificial Intelligence Problems
+\# Artificial Intelligence Problems
 
-# 
 
-# This repository contains implementations of classic \*\*Artificial Intelligence search problems\*\* using Python.These are part of academic coursework for the 6th semester AI lab.
 
-# 
+This repository contains implementations of classic \*\*Artificial Intelligence search problems\*\* using Python.These are part of academic coursework for the 6th semester AI lab.
 
-# 
 
-# \##  Project Overview
 
-# 
 
-# The repository includes the following AI problems:
 
-# 
+\##  Project Overview
 
-# \### 1. Breadth First Search (BFS)
 
-# \- Implementation of BFS algorithm
 
-# \- Used for graph/tree traversal
+The repository includes the following AI problems:
 
-# \- Demonstrates shortest path in unweighted graphs
 
-# 
 
-# File: `1.bfs.ipynb`
+\### 1. Breadth First Search (BFS)
 
-# 
+\- Implementation of BFS algorithm
 
-# 
+\- Used for graph/tree traversal
 
-# \### 2. Robot Navigation Problem
+\- Demonstrates shortest path in unweighted graphs
 
-# \- Pathfinding for a robot in a grid environment
 
-# \- Uses bfs algorithm to reach the goal
 
-# \- Demonstrates obstacle avoidance and state space search
+File: `1.bfs.ipynb`
 
-# 
 
-# File: `RobotNavigation.ipynb`
 
-# 
 
-# 
 
-# \### 3. Goat-Wolf-Cabbage Problem
+\### 2. Robot Navigation Problem
 
-# \- Classic river crossing puzzle
+\- Pathfinding for a robot in a grid environment
 
-# \- Solved using sbfs algorithm
+\- Uses bfs algorithm to reach the goal
 
-# \- Ensures safety constraints are satisfied
+\- Demonstrates obstacle avoidance and state space search
 
-# 
 
-# File: `goatWolfCabbageMan.ipynb`
 
-# 
+File: `RobotNavigation.ipynb`
 
-# 
 
-# \### 4. Water Jug Problem
 
-# \- Problem of measuring water using two jugs
 
-# \- Solved using BFS
 
-# \- Demonstrates problem-solving using state space representation
+\### 3. Goat-Wolf-Cabbage Problem
 
-# 
+\- Classic river crossing puzzle
 
-# File: `water.ipynb`
+\- Solved using bfs algorithm
 
-# 
+\- Ensures safety constraints are satisfied
 
-# 
 
-# \##  Technologies Used
 
-# 
+File: `goatWolfCabbageMan.ipynb`
 
-# \- Python 
 
-# \- Jupyter Notebook 
 
-# \- BFS Algorithm
 
-# 
 
-# 
+\### 4. Water Jug Problem
 
-# \##  Objectives
+\- Problem of measuring water using two jugs
 
-# 
+\- Solved using BFS
 
-# \- Understand state space representation
+\- Demonstrates problem-solving using state space representation
 
-# \- Implement bfs algorithm
 
-# \- Solve classical AI problems programmatically
 
-# \- Improve problem-solving and logical reasoning skills
+File: `water.ipynb`
 
-# 
+
+
+
+
+\##  Technologies Used
+
+
+
+\- Python 
+
+\- Jupyter Notebook 
+
+\- BFS Algorithm
+
+
+
+
+
+\##  Objectives
+
+
+
+\- Understand state space representation
+
+\- Implement bfs algorithm
+
+\- Solve classical AI problems programmatically
+
+\- Improve problem-solving and logical reasoning skills
+
+
 
